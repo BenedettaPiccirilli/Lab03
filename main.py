@@ -1,5 +1,6 @@
 from deposito_strumenti import DepositoStrumenti
 from datetime import datetime
+from operator import itemgetter
 
 def menu():
     print("\n--- MENU DEPOSITO STRUMENTI ---")
